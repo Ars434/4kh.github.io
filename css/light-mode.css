@@ -174,7 +174,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #333
 }
 
-button {
+.button {
     padding: 8px;
     background-color: #000;
     color: #fff;
@@ -185,6 +185,6 @@ button {
     outline: none;
 }
 
-button:hover {
+.button:hover {
     background: rgd(45,50, 102)
 }
