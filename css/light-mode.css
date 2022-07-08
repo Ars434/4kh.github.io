@@ -188,3 +188,17 @@ h1, h2, h3, h4, h5, h6 {
 .button:hover {
     background: rgd(45,50, 102)
 }
+
+/* Section*/
+.section {
+    padding: 80px 0;
+}
+
+.section_header {
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto 40px;
+    margin-bottom: 40px;
+
+    text-align: center;
+}
