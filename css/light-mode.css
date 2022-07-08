@@ -14,7 +14,7 @@ body{
 }
 
 
-h1, h2, h3. h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
     margin: 0;
 }
 
@@ -83,7 +83,7 @@ h1, h2, h3. h4, h5, h6 {
 /*Header*/
 .header {
     width: 100%;
-    padding-top: 20px;;
+    padding-top: 20px;
 
     position: absolute;
     top: 0;
@@ -183,4 +183,8 @@ button {
     font-size: 1em;
     margin-top: 1%;
     outline: none;
+}
+
+button:hover {
+    background: rgd(45,50, 102)
 }
