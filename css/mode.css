@@ -42,7 +42,6 @@
 }
 
 .intro_suptitle {
-    position: absolute;
     color: #fff;
     font-size: 72px;
     text-align: center;
@@ -63,7 +62,6 @@
 
 
 .intro_title {
-    position: absolute;
     color: #fff;
     font-size: 150px;
     font-weight: 700;
