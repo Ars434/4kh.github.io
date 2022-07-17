@@ -154,10 +154,23 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .nav2 {
-    
+    font-size: 14px;
+    text-transform: uppercase;
 }
 
 .nav2_link {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 15px;
+    position: relative;
+
+    color: #fff;
+    text-decoration: none;
+
+    transition: color .1s linear;
+}
+
+.nav2_link:after {
     content:"";
     display: block;
     width: 100%;
