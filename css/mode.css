@@ -240,6 +240,11 @@ h1, h2, h3, h4, h5, h6 {
     color: #333
 }
 
+.section_title {
+    font-size: 100px;
+}
+
+
 /*Background*/
 .background {
     width: 100%;
