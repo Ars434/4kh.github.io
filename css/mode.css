@@ -184,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
     left: 0;
     z-index: 1;
 
-    transition: color .1s linear;
+    transition: opacity .1s linear;
 }
 
 .nav2_link:hover {
